@@ -152,3 +152,18 @@ Join our community and stay connected with the latest updates and discussions:
 - [Join our Discord community chat](https://discord.com/invite/pPwMzMx9k8) to engage with other users, ask questions, and participate in discussions.
 - [Visit hiro.so](https://www.hiro.so/) for updates and subscribing to the mailing list.
 - Follow [Hiro on X.](https://x.com/hirosystems)
+- 
+##############
+<a href="https://github.com/hirosystems/clarinet/releases">releases</a><br />
+ubuntu 23
+```bash
+wget https://github.com/hirosystems/clarinet/releases/download/v3.2.0/clarinet-linux-x64-glibc.tar.gz
+```
+```bash
+tar -xzf clarinet-linux-x64-glibc.tar.gz
+```
+```bash
+clarinet --version
+```
+
+
